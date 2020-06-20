@@ -8,7 +8,7 @@
 	--dmessagetransparency:			0.5;
 	--dguildchanneltransparency:	0.15;
 	--dmemberlisttransparency:		0.0;
-	--daccentcolor:					190,78,180;
+	--daccentcolor:					191,76,182;
 	
 	--dfont:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 	--dtextshadow:					transparent;
